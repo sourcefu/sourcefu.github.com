@@ -18,7 +18,7 @@ http://irclog.greptilian.com/sourcefu/today
 
 Our primary means of communication is an IRC channel on [Freenode](http://freenode.net) called #sourcefu that we log publicly because "[we live in a world of infinitely searchable micro-content, and every contribution, however small, enriches all of us](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)."
 
-If you enjoy the [topics](topics) you see in [our logs][logs], you are welcome to join the conversation!  The easiest way is via http://webchat.freenode.net/?channels=sourcefu but most of us use desktop IRC clients such as [irssi](http://www.irssi.org), [Pidgin](http://www.pidgin.im), or [Adium](http://adium.im) or mobile IRC clients such as [IRC999](http://itunes.apple.com/us/app/irc999/id360698285?mt=8) or [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en).
+If you enjoy the [topics](topics) you see in [our logs][logs], you are welcome to join the conversation!  The easiest way is via http://webchat.freenode.net/?channels=sourcefu but most of us use desktop IRC clients such as [irssi](http://www.irssi.org), [Pidgin](http://www.pidgin.im), or [Adium](http://adium.im) or mobile IRC clients such as [IRC999](http://itunes.apple.com/us/app/irc999/id360698285?mt=8), [Yaaic](http://www.yaaic.org/), or [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en).
 
 ## Members
 
