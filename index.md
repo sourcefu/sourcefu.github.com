@@ -2,6 +2,8 @@
 layout: default
 title: sourcefu
 ---
+http://irclog.greptilian.com/sourcefu/today
+
 ## Guiding principles
 
 * None of us is as smart as all of us
@@ -32,4 +34,4 @@ Fu is a nod to http://crimsonfu.github.com , http://commandlinefu.com and http:/
 
 The source is at http://github.com/sourcefu/sourcefu.github.com 
 
-[logs]: http://irclog.greptilian.com/sourcefu
+[logs]: http://irclog.greptilian.com/sourcefu/today
