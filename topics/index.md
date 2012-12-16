@@ -1,6 +1,6 @@
 ---
 layout: default
-title: topics
+title: Topics
 ---
 On topic for #sourcefu:
 
