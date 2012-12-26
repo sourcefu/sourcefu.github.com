@@ -4,17 +4,17 @@ title: sourcefu
 ---
 http://irclog.greptilian.com/sourcefu/today
 
-## Guiding Principles
+## Guiding principles
 
 * None of us is as smart as all of us
 * Open source by default
 * [When in doubt, make it public](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)
 
-## On Topic
+## On topic
 
 {% include topics.yaml %}
 
-## Publicly-logged IRC Channel: #sourcefu on Freenode
+## Publicly-logged IRC channel: #sourcefu on Freenode
 
 http://irclog.greptilian.com/sourcefu/today
 
@@ -26,11 +26,11 @@ If you enjoy the [topics](topics) you see in [our logs][logs], you are welcome t
 
 See our [members](members) page and https://github.com/sourcefu
 
-## About the Name sourcefu
+## About the name sourcefu
 
 Fu is a nod to http://crimsonfu.github.com , http://commandlinefu.com and http://catb.org/jargon/html/F/suffix-fu.html
 
-## Updating this Website
+## Updating this website
 
 The source is at http://github.com/sourcefu/sourcefu.github.com 
 
