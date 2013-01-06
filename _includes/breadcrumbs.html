@@ -10,9 +10,7 @@ based on http://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-i
 {% assign growing_path="" %}
 
 {% if num_levels_deep == "-1" %}
-<li><a href="/">home</a> &nbsp; </li>
 {% else %}
-<li><a href="/">home</a> &#187; </li>
   {% for unused in site.something_to_iterate_over limit: num_levels_deep %}
 
     {% capture first_of_remaining %}{{ remaining_parts | truncatewords: 1, '' }}{% endcapture %}
