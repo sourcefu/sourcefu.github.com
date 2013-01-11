@@ -2,6 +2,11 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
 }
+
+.container {
+  margin-left: 2em;
+}
+
 @media (max-width: 979px) {
   body {
     padding-top: 0;
