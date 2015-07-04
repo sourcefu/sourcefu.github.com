@@ -12,6 +12,8 @@ http://irclog.greptilian.com/sourcefu/today
 
 ## On topic
 
+{% include topics.html %}
+
 {% include topics.yaml %}
 
 ## Publicly-logged IRC channel: #sourcefu on Freenode

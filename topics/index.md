@@ -1,7 +1,7 @@
 ---
 layout: default
-title: topics
+title: Topics
 ---
-On topic for #sourcefu:
+{% include topics.html %}
 
 {% include topics.yaml %}
