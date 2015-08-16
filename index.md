@@ -37,4 +37,6 @@ See our [members](members) page and https://github.com/sourcefu
 
 The source is at http://github.com/sourcefu/sourcefu.github.com 
 
+![sourcefu logo](/img/sourcefu.svg "sourcefu logo")
+
 [logs]: http://irclog.greptilian.com/sourcefu/today
