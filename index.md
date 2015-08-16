@@ -19,4 +19,8 @@ sourcefu is a software development community that logs its IRC channel publicly 
 
 See [Projects](/projects).
 
+## codecraft mailing list
+
+If you enjoy the \#sourcefu IRC channel you may also enjoy the codecraft mailing list: http://or8.net/mailman/listinfo/codecraft
+
 <img src="/img/sourcefu.svg" alt="sourcefu logo" width="300px"/>
