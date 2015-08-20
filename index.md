@@ -2,7 +2,7 @@
 layout: default
 title: sourcefu
 ---
-sourcefu is a software development community that logs its IRC channel publicly at http://irclog.greptilian.com/sourcefu/today because "[we live in a world of infinitely searchable micro-content, and every contribution, however small, enriches all of us](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)."
+sourcefu is a software development community that logs its IRC channel publicly at [irclog.greptilian.com/sourcefu](http://irclog.greptilian.com/sourcefu/today) because "[we live in a world of infinitely searchable micro-content, and every contribution, however small, enriches all of us](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)."
 
 "fu" is short for the Chinese word gōngfu (功夫) which means "[any study, learning, or practice that requires patience, energy, and time to complete][wikipedia-kungfu]."
 
