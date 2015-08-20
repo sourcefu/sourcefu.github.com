@@ -1,5 +1,5 @@
 ---
-title: Members of sourcefu
+title: Members
 layout: default
 ---
 * [Philip Durbin](pdurbin)
