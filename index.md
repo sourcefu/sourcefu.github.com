@@ -6,6 +6,8 @@ title:
 
 sourcefu is a software development community that logs its IRC channel publicly at [irclog.greptilian.com/sourcefu](http://irclog.greptilian.com/sourcefu/today) because "[we live in a world of infinitely searchable micro-content, and every contribution, however small, enriches all of us](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)."
 
+<img src="/img/gongfu.svg" alt="gongfu" width="50px" align="left" style="padding-right: 10px; padding-top: 5px"/>
+
 "fu" is short for the Chinese word gōngfu (功夫) which means "[any study, learning, or practice that requires patience, energy, and time to complete][wikipedia-kungfu]."
 
 "-fu" appears in The Jargon File as "[expert practice of a skill][jargonfile-fu]" but in "sourcefu" the hypen was removed to [keep it short][unix-short]. :)
