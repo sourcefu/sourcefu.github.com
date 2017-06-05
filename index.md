@@ -28,4 +28,4 @@ See [Projects](/projects).
 
 ## The codecraft list
 
-If you enjoy the \#sourcefu IRC channel you may also enjoy the codecraft mailing list: http://or8.net/mailman/listinfo/codecraft
+If you enjoy the \#sourcefu IRC channel you may also enjoy the codecraft mailing list: <http://or8.net/mailman/listinfo/codecraft>
