@@ -4,4 +4,4 @@ layout: default
 ---
 sourcefu [members](/members) have contributed implementations to <https://github.com/pdurbin/addressbookmvc>
 
-The source of this website can be found at <https://github.com/sourcefu/sourcefu.github.com>
+We talk about projects all the time in #sourcefu and welcome contributions.
