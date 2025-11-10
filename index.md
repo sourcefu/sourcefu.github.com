@@ -2,9 +2,15 @@
 layout: default
 title: sourcefu
 ---
-sourcefu is a software development community with an emphasis on friendliness, transparency, and open source.
+sourcefu was a software development community with an emphasis on friendliness, transparency, and open source.
 
-We log our IRC channel publicly at [http://irclog.greptilian.com/sourcefu](http://irclog.greptilian.com/sourcefu/today) because "[we live in a world of infinitely searchable micro-content, and every contribution, however small, enriches all of us](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)."
+We used to log our IRC channel publicly at [http://irclog.greptilian.com/sourcefu](http://irclog.greptilian.com/sourcefu/) because "[we live in a world of infinitely searchable micro-content, and every contribution, however small, enriches all of us](http://www.codinghorror.com/blog/2007/04/when-in-doubt-make-it-public.html)."
+
+Our IRC channel was on freenode and when it fell apart, our channel went with it. You can see the first day of chatter at <http://irclog.greptilian.com/sourcefu/2012-11-28/> and pretty much the last day at <http://irclog.greptilian.com/sourcefu/2021-05-04/>. You can find a full backup at <https://github.com/pdurbin/irclog.greptilian.com>. It was good while it lasted!
+
+Some of us are still on the codecraft mailing list, which is mentioned below.
+
+If you happen to be in the Boston area, you can check out <https://bostonopen.dev>.
 
 ## Guiding principles
 
